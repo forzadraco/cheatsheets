@@ -4,9 +4,10 @@ Day to day command
 
 pg_hba.conf
 
+## User Management
+
 ### Show user
 ``` \du ```
-
 
 
 ### Creating User
@@ -26,4 +27,6 @@ CREATE DATABASE yourdbname;
 CREATE USER youruser WITH ENCRYPTED PASSWORD 'yourpass';
 GRANT ALL PRIVILEGES ON DATABASE yourdbname TO youruser;
 ```
+
+## QUERY
 
