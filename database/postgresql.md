@@ -1,7 +1,7 @@
-#PostgreSQL 10
+# PostgreSQL 10
 
 Day to day command
 
 
-###Creating Database
-```$ sudo -u postgres createdb <dbname>```
+### Creating Database
+``` $ sudo -u postgres createdb <dbname> ```
